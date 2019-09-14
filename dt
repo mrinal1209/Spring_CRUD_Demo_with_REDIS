@@ -1,0 +1,206 @@
+{
+	"graph_price": [{
+			"time": 1568364000,
+			"close": 2257.6001,
+			"predicted_price": 2189.872097
+		},
+		{
+			"time": 1568364060,
+			"close": 2257.6001,
+			"predicted_price": 2325.3281030000003
+		},
+		{
+			"time": 1568364120,
+			"close": 2258.05,
+			"predicted_price": 2190.3085
+		},
+		{
+			"time": 1568364180,
+			"close": 2256.3,
+			"predicted_price": 2323.989
+		},
+		{
+			"time": 1568364240,
+			"close": 2256.5,
+			"predicted_price": 2188.805
+		},
+		{
+			"time": 1568364300,
+			"close": 2256.8,
+			"predicted_price": 2324.5040000000004
+		},
+		{
+			"time": 1568364360,
+			"close": 2256.8999,
+			"predicted_price": 2189.1929029999997
+		},
+		{
+			"time": 1568364420,
+			"close": 2256.45,
+			"predicted_price": 2324.1434999999997
+		},
+		{
+			"time": 1568364480,
+			"close": 2257.0,
+			"predicted_price": 2189.29
+		},
+		{
+			"time": 1568364540,
+			"close": 2258.1001,
+			"predicted_price": 2325.843103
+		},
+		{
+			"time": 1568364600,
+			"close": 2258.3,
+			"predicted_price": 2190.551
+		},
+		{
+			"time": 1568364660,
+			"close": 2260.25,
+			"predicted_price": 2328.0575
+		},
+		{
+			"time": 1568364720,
+			"close": 2262.75,
+			"predicted_price": 2194.8675
+		},
+		{
+			"time": 1568364780,
+			"close": 2262.45,
+			"predicted_price": 2330.3235
+		},
+		{
+			"time": 1568364840,
+			"close": 2261.7,
+			"predicted_price": 2193.8489999999997
+		},
+		{
+			"time": 1568364900,
+			"close": 2260.75,
+			"predicted_price": 2328.5725
+		},
+		{
+			"time": 1568364960,
+			"close": 2260.1499,
+			"predicted_price": 2192.345403
+		},
+		{
+			"time": 1568365020,
+			"close": 2260.45,
+			"predicted_price": 2328.2635
+		},
+		{
+			"time": 1568365080,
+			"close": 2259.3999,
+			"predicted_price": 2191.617903
+		},
+		{
+			"time": 1568365140,
+			"close": 2260.5,
+			"predicted_price": 2328.315
+		},
+		{
+			"time": 1568365200,
+			"close": 2257.96,
+			"predicted_price": 2190.2212
+		},
+		{
+			"time": 1568365260,
+			"close": 2256.8501,
+			"predicted_price": 2324.5556030000002
+		},
+		{
+			"time": 1568365320,
+			"close": 2256.3,
+			"predicted_price": 2188.6110000000003
+		},
+		{
+			"time": 1568365380,
+			"close": 2257.05,
+			"predicted_price": 2324.7615
+		},
+		{
+			"time": 1568365440,
+			"close": 2256.95,
+			"predicted_price": 2189.2414999999996
+		},
+		{
+			"time": 1568365500,
+			"close": 2258.5,
+			"predicted_price": 2326.255
+		},
+		{
+			"time": 1568365560,
+			"close": 2256.8,
+			"predicted_price": 2189.096
+		},
+		{
+			"time": 1568365620,
+			"close": 2257.05,
+			"predicted_price": 2324.7615
+		},
+		{
+			"time": 1568365680,
+			"close": 2256.5,
+			"predicted_price": 2188.805
+		},
+		{
+			"time": 1568365740,
+			"close": 2257.0,
+			"predicted_price": 2324.71
+		},
+		{
+			"time": 1568365800,
+			"close": 2258.0,
+			"predicted_price": 2190.2599999999998
+		},
+		{
+			"time": 1568365860,
+			"close": 2258.05,
+			"predicted_price": 2325.7915000000003
+		},
+		{
+			"time": 1568365920,
+			"close": 2258.0,
+			"predicted_price": 2190.2599999999998
+		},
+		{
+			"time": 1568365980,
+			"close": 2259.0,
+			"predicted_price": 2326.77
+		},
+		{
+			"time": 1568366040,
+			"close": 2260.0,
+			"predicted_price": 2192.2
+		},
+		{
+			"time": 1568366100,
+			"close": 2260.05,
+			"predicted_price": 2327.8515
+		},
+		{
+			"time": 1568366160,
+			"close": 2260.0,
+			"predicted_price": 2192.2
+		},
+		{
+			"time": 1568366220,
+			"close": 2261.0,
+			"predicted_price": 2328.83
+		},
+		{
+			"time": 1568366280,
+			"close": 2261.0,
+			"predicted_price": 2193.17
+		},
+		{
+			"time": 1568366340,
+			"close": 2261.05,
+			"predicted_price": 2328.8815000000004
+		}
+	],
+	"buy_price": 2296.230603,
+	"sell_price": 2300.230603,
+	"final_predicted_price": 2310.333
+}
