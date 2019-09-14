@@ -1,0 +1,57 @@
+[{
+	"company_current_price": "196.4",
+	"company_detailed_url": "null",
+	"company_id": "1",
+	"company_img_url": "https://i.imgur.com/0517oD4.png",
+	"company_name": "NSE_COALINDIA",
+	"company_stock_price_delta": "0.0"
+}, {
+	"company_current_price": "2247.0",
+	"company_detailed_url": "null",
+	"company_id": "2",
+	"company_img_url": "https://i.imgur.com/BRnZzIS.png",
+	"company_name": "NSE_HDFCBANK",
+	"company_stock_price_delta": "0.0"
+}, {
+	"company_current_price": "1814.35",
+	"company_detailed_url": "null",
+	"company_id": "3",
+	"company_img_url": "https://i.imgur.com/5fYQyeZ.png",
+	"company_name": "NSE_HINDUNILVR",
+	"company_stock_price_delta": "1.2999999999999545"
+}, {
+	"company_current_price": "406.2",
+	"company_detailed_url": "null",
+	"company_id": "4",
+	"company_img_url": "https://i.imgur.com/1Pi3LgR.png?1",
+	"company_name": "NSE_ICICIBANK",
+	"company_stock_price_delta": "-0.19999999999998863"
+}, {
+	"company_current_price": "820.8",
+	"company_detailed_url": "null",
+	"company_id": "5",
+	"company_img_url": "https://i.imgur.com/sN9t2tx.png",
+	"company_name": "NSE_INFY",
+	"company_stock_price_delta": "0.049999999999954525"
+}, {
+	"company_current_price": "239.45",
+	"company_detailed_url": "null",
+	"company_id": "6",
+	"company_img_url": "https://i.imgur.com/8KkRHYc.png",
+	"company_name": "NSE_ITC",
+	"company_stock_price_delta": "-0.10000000000002274"
+}, {
+	"company_current_price": "1474.85",
+	"company_detailed_url": "null",
+	"company_id": "7",
+	"company_img_url": "https://i.imgur.com/oBWoOI5.png",
+	"company_name": "NSE_KOTAKBANK",
+	"company_stock_price_delta": "0.09999999999990905"
+}, {
+	"company_current_price": "1356.0",
+	"company_detailed_url": "null",
+	"company_id": "8",
+	"company_img_url": "https://i.imgur.com/wyfbr94.png",
+	"company_name": "NSE_LT",
+	"company_stock_price_delta": "-0.40000000000009095"
+}]
